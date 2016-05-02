@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./polychroniconra00lumbgoog_0096.png"; bbox 0 0 3558 5676; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 614 2481 1019 2496">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 614 2481 1019 2496">
+     <span class='ocr_line' id='line_1_1' title="bbox 614 2481 1019 2496; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 614 2481 1019 2496; x_wconf 51' lang='lat' dir='ltr'><strong>mm*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 327 2687 1310 2824">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 2687 1310 2824">
+     <span class='ocr_line' id='line_1_2' title="bbox 327 2687 1310 2824; baseline -0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 327 2727 765 2822; x_wconf 82' lang='lat' dir='ltr'>POLYOHRONICON</span> <span class='ocrx_word' id='word_1_3' title='bbox 793 2687 1077 2824; x_wconf 78' lang='lat' dir='ltr'><strong>RANULPHI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1100 2729 1310 2822; x_wconf 68' lang='lat' dir='ltr'>luo-BEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 510 2913 1118 3008">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 510 2913 1118 3008">
+     <span class='ocr_line' id='line_1_3' title="bbox 510 2913 1118 3008; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 510 2913 758 3008; x_wconf 80' lang='lat' dir='ltr'><strong>MONAOHI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 785 2915 1118 3008; x_wconf 72' lang='lat' dir='ltr'><strong>GESTRENSIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 611 3249 1015 3268">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 611 3249 1015 3268">
+     <span class='ocr_line' id='line_1_4' title="bbox 611 3249 1015 3268; baseline -0.01 0"><span class='ocrx_word' id='word_1_7' title='bbox 611 3249 1015 3268; x_wconf 48' lang='lat' dir='ltr'><strong>*um</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1784 5676">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1784 5676">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1784 5676; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1784 5676; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
